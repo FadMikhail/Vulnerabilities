@@ -20,7 +20,8 @@
 
 - Какие сетевые службы в ней разрешены?
 
-![image](https://github.com/FadMikhail/Vulnerabilities/assets/132131230/16ea1507-54a9-43c7-9535-e6a9e74f035c)
+![image](https://github.com/FadMikhail/Vulnerabilities/assets/132131230/9019aec8-b978-48ab-bfc7-86a2bcc75ddd)
+
 
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
   
