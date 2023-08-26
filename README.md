@@ -24,6 +24,10 @@
 
 
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
+
+https://www.exploit-db.com/exploits/311
+https://www.exploit-db.com/exploits/17491
+https://www.exploit-db.com/exploits/7855
   
 *Приведите ответ в свободной форме.*  
 
